@@ -1,90 +1,81 @@
-# 👋 Hey, I'm Zak Esposito
+# Hey, I'm Zak Esposito
 
-🎓 **Computer Science @ Cardiff University (BSc with Year in Industry — graduating 2026)**  
-🧠 **AI & Software Engineering** — specialising in *LLMs, full-stack development, and game/AI prototyping*  
-🛠 **Ex–Manufacturing Software Engineer (Renishaw)**  
-🚀 Building products with **Google AI Studio, Gemini**, Python, JavaScript, and modern web tech.
+Final-year Computer Science student at Cardiff University (BSc with Year in Industry, graduating 2026).  
+Based in Llanelli, Wales.  
+I build full-stack web apps, ship AI-integrated tools, and do freelance web development for local businesses.
 
----
-
-## 🔥 What I'm Working On
-
-### 🎓 **Final Year Project (CM3203 — One Semester Individual Project)**  
-**“Talk to me like I'm…” — How LLMs tailor responses to the user**  
-- Experimenting with persona conditioning, prompt engineering, memory, and evaluation methods  
-- Comparing LLM adaptivity across tasks and user contexts  
-- Will include: datasets, experiments, interactive demos, and the full research report  
+Previously a Software Engineer at **Renishaw** — production C#/.NET, SQL Server, Azure DevOps.
 
 ---
 
-## 🧰 Tech Stack
+## What I'm Working On
 
-**Languages:**  
-- Python, JavaScript, Java, C#, SQL
+**Dissertation (CM3203):** *"Talk to me like I'm...": How LLMs Tailor Responses to Users*  
+Research into how large language models adapt tone, complexity, and framing based on user context and prompt framing.
 
-**Frameworks & Tools:**  
-- React, Node.js, Express, Vue (learning), Unity  
-- Git, GitHub, REST APIs, Docker (basic)  
-
-**AI / ML:**  
-- Google Gemini, AI Studio (Build & Prompting), prompt engineering  
-- Search algorithms, A*, Adversarial search, minimax, alpha–beta pruning (coursework)
-
-**Other:**  
-- Web dev, cloud services, PC building/optimisation, hardware troubleshooting
+**Esposito Digital** — freelance web development and AI automation for local businesses in South Wales.
 
 ---
 
-## 🚀 Featured Projects (incoming)
+## Shipped Projects
 
-### 🎮 **AI-Generated Browser Game (Inspired by *The Running Man*)**
-Gemini-powered game created in Google AI Studio.  
-Multiple levels, scoring system, full prompt workflow, and gameplay logic.
+### GradMyRun — [grademyrun.com](https://grademyrun.com)
+`React` `TypeScript` `Node.js` `Vercel`
 
-### 🐶 **Bark & Bubbles — Dog Grooming Website**
-Freelance prototype for a local business.  
-Clean landing page, booking flow, and responsive UI.
-
-### 🤖 **LLM Persona Engine**
-Prompt-chained agent showcasing personality conditioning and adaptive behaviour.
-
-### 📡 **Hybrid Fitness & Performance Tracker**
-Running + gym tracker using Garmin data, AI-generated training suggestions, and dashboards.
-
+A running performance grading tool for 5K runners and parkrunners. Enter your time, get an age-graded score and shareable grade card — no account required.  
+Built around USATF MLDR 2025 road standards. Live and growing.
 
 ---
 
-## 📘 University Work
+### Snap2Shop
+`React` `TypeScript` `Gemini 2.5 Flash` `Node.js` `Cloud Run` `Docker`
 
-### **CM3112 — Artificial Intelligence**
-- Uninformed search, A*, heuristics, admissibility  
-- Minimax, alpha–beta pruning, adversarial search  
-- Visualisations and implemented examples coming soon
-
-### **CM3104 — Large-Scale Databases**
-- NoSQL  
-- Document stores  
-- Spatial databases  
-- Lab exam work & spatial queries (clean versions only)
-
-### **CM3110 — Security**
-- Crypto primitives  
-- Secure design & threat modelling  
-- Coursework-safe summaries
-
-### **CM3117 — Political Economies of Computing**
-- Platform capitalism, “Age of Access”, digital ownership  
-- Seminar summaries and diagrams
+Upload a photo of any product, get real retailer links back. Two-stage GenAI pipeline: Gemini Flash for image recognition, search grounding for retailer lookup. Deployed on Cloud Run with GitHub Actions CI.
 
 ---
 
-## 📫 Connect With Me
+### VentureForge
+`React` `TypeScript` `Gemini 3 Pro + 2.5 Flash` `Node.js` `Docker`
 
-📧 **Email:** *zakesposito03@gmail.com*  
-🔗 **LinkedIn:** *www.linkedin.com/in/zakesposito*  
-💼 Open to: **AI engineering**, **software engineering**, **full-stack roles**, and **freelance web/AI projects**.
+AI R&D platform for solo founders. Generates market research, reasoned strategies, and technical specs. Multi-model orchestration with structured JSON outputs and fallback logic.
 
 ---
 
-### 💡 Motto
-> **Build fast. Learn deeply. Ship real things.**
+### HouseEdge
+`React` `TypeScript` `Vite` `Recharts` `Anthropic Claude API`
+
+Gamified FinTech simulation for gambling risk awareness, built for CM3202 Emerging Technologies. Includes an AI chatbot powered by the Anthropic Claude API and interactive risk dashboards.
+
+---
+
+## Tech Stack
+
+**Languages:** C#, TypeScript, JavaScript, SQL, Python  
+**Web:** React, ASP.NET MVC, .NET 8, Node.js, Express, Tailwind CSS, REST APIs  
+**Databases:** SQL Server, PostgreSQL, MongoDB, Neo4j  
+**Cloud and DevOps:** Azure DevOps, GitHub Actions, Docker, Cloud Run, Vercel  
+**AI and Automation:** Anthropic Claude API, Gemini (Pro, Flash, Vision), n8n, LLM integration, prompt engineering  
+**Tools:** Git, Agile/Scrum, full SDLC, structured debugging
+
+---
+
+## Currently Studying
+
+`CM3203` One Semester Individual Project (Dissertation)  
+`CM3202` Emerging Technologies  
+`CM3112` Artificial Intelligence  
+`CM3110` Security  
+`CM3104` Large-Scale Databases  
+`CM3117` Political Economies of Computing
+
+---
+
+## Connect
+
+Email: zakesposito03@gmail.com  
+Portfolio: [zakesposito.dev](https://zakesposito.dev)  
+LinkedIn: [linkedin.com/in/zakesposito](https://linkedin.com/in/zakesposito)
+
+---
+
+> Build fast. Learn deeply. Ship real things.
