@@ -1,29 +1,34 @@
 # Hey, I'm Zak Esposito
 
-Final-year Computer Science student at Cardiff University (BSc with Year in Industry, graduating 2026).  
+Computer Science graduate from Cardiff University (BSc with Year in Industry, 2026).  
 Based in Llanelli, Wales.  
-I build full-stack web apps, ship AI-integrated tools, and do freelance web development for local businesses.
+I build full-stack web apps, ship AI-integrated tools, and run a freelance web development and automation studio for local businesses in South Wales.
 
 Previously a Software Engineer at **Renishaw** — production C#/.NET, SQL Server, Azure DevOps.
 
 ---
 
-## What I'm Working On
+## Shipped Projects
 
-**Dissertation (CM3203):** *"Talk to me like I'm...": How LLMs Tailor Responses to Users*  
-Research into how large language models adapt tone, complexity, and framing based on user context and prompt framing.
+### ARES 3 Telemetry Dashboard — [ares3-telemetry.vercel.app](https://ares3-telemetry.vercel.app)
+`Java 21` `Spring Boot` `React` `TypeScript` `Docker` `GitHub Actions`
 
-**Esposito Digital** — freelance web development and AI automation for local businesses in South Wales.
+A full-stack Mars habitat telemetry simulator inspired by The Martian. Spring Boot REST API backend with layered architecture, React/TypeScript mission control dashboard, live NASA rover imagery proxy, and a Claude AI endpoint that analyses habitat state and returns survival recommendations in Watney's voice. 23 passing unit tests. Deployed with Docker and GitHub Actions CI.
 
 ---
 
-## Shipped Projects
-
-### GradMyRun — [grademyrun.com](https://grademyrun.com)
+### GradeMyRun — [grademyrun.com](https://grademyrun.com)
 `React` `TypeScript` `Node.js` `Vercel`
 
 A running performance grading tool for 5K runners and parkrunners. Enter your time, get an age-graded score and shareable grade card — no account required.  
 Built around USATF MLDR 2025 road standards. Live and growing.
+
+---
+
+### HouseEdge
+`React` `TypeScript` `Vite` `Recharts` `Anthropic Claude API`
+
+Gamified FinTech simulation for gambling risk awareness, built for CM3202 Emerging Technologies. Includes an AI chatbot powered by the Anthropic Claude API and interactive risk dashboards.
 
 ---
 
@@ -41,32 +46,21 @@ AI R&D platform for solo founders. Generates market research, reasoned strategie
 
 ---
 
-### HouseEdge
-`React` `TypeScript` `Vite` `Recharts` `Anthropic Claude API`
+### Esposito Digital — [espositodigital.co.uk](https://espositodigital.co.uk)
+`HTML` `CSS` `Tailwind CSS` `JavaScript` `Vercel`
 
-Gamified FinTech simulation for gambling risk awareness, built for CM3202 Emerging Technologies. Includes an AI chatbot powered by the Anthropic Claude API and interactive risk dashboards.
+Freelance web development and AI automation studio serving local businesses in South Wales. Site designed, built, and deployed independently.
 
 ---
 
 ## Tech Stack
 
-**Languages:** C#, TypeScript, JavaScript, SQL, Python  
-**Web:** React, ASP.NET MVC, .NET 8, Node.js, Express, Tailwind CSS, REST APIs  
+**Languages:** C#, Java, TypeScript, JavaScript, SQL, Python  
+**Web and Frameworks:** React, ASP.NET MVC, .NET 8, Spring Boot, Node.js, Express, Tailwind CSS, REST APIs  
 **Databases:** SQL Server, PostgreSQL, MongoDB, Neo4j  
-**Cloud and DevOps:** Azure DevOps, GitHub Actions, Docker, Cloud Run, Vercel  
+**Cloud and DevOps:** Azure DevOps, GitHub Actions, CI/CD pipelines, Docker, Cloud Run, Vercel, Render  
 **AI and Automation:** Anthropic Claude API, Gemini (Pro, Flash, Vision), n8n, LLM integration, prompt engineering  
-**Tools:** Git, Agile/Scrum, full SDLC, structured debugging
-
----
-
-## Currently Studying
-
-`CM3203` One Semester Individual Project (Dissertation)  
-`CM3202` Emerging Technologies  
-`CM3112` Artificial Intelligence  
-`CM3110` Security  
-`CM3104` Large-Scale Databases  
-`CM3117` Political Economies of Computing
+**Tools:** Git, Agile/Scrum, full SDLC, JUnit 5, Mockito, structured debugging
 
 ---
 
@@ -74,8 +68,9 @@ Gamified FinTech simulation for gambling risk awareness, built for CM3202 Emergi
 
 Email: zakesposito03@gmail.com  
 Portfolio: [zakesposito.dev](https://zakesposito.dev)  
+Business: [espositodigital.co.uk](https://espositodigital.co.uk)  
 LinkedIn: [linkedin.com/in/zakesposito](https://linkedin.com/in/zakesposito)
 
 ---
 
-> Build fast. Learn deeply. Ship real things.
+> "I'm going to have to science the shit out of this." — Mark Watney
