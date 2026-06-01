@@ -20,8 +20,7 @@ A full-stack Mars habitat telemetry simulator inspired by The Martian. Spring Bo
 ### GradeMyRun — [grademyrun.com](https://grademyrun.com)
 `React` `TypeScript` `Node.js` `Vercel`
 
-A running performance grading tool for 5K runners and parkrunners. Enter your time, get an age-graded score and shareable grade card — no account required.  
-Built around USATF MLDR 2025 road standards. Live and growing.
+A running performance grading tool for 5K runners and parkrunners. Enter your time, get an age-graded score and shareable grade card — no account required. Built around USATF MLDR 2025 road standards. Live and growing.
 
 ---
 
